@@ -19,3 +19,7 @@ So we thought it would be fitting to acknowlege him by naming the application af
 
 Please drop me an e-mail.
 /k\ /e\ /i\ /t\ /h\ /.\ /s\ /m\ /i\ /t\ /h\ /@\ /u\ /n\ /s\ /e\ /e\ /n\ /.\ /i\ /s\
+
+# Want to help support the cause?
+Donations are always appreciated and go a long way in making sure I can keep the lights on whilst developing.
+BTC :13oo9b7AYQYWsuFaMbQkkQr28UV8cmNzqa
