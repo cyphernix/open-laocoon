@@ -22,4 +22,5 @@ Please drop me an e-mail.
 
 # Want to help support the cause?
 Donations are always appreciated and go a long way in making sure I can keep the lights on whilst developing.
+
 BTC :13oo9b7AYQYWsuFaMbQkkQr28UV8cmNzqa
