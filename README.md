@@ -13,7 +13,7 @@ Currently it's being developed and tested in an Air Gapped environment. So nothi
 
 Well we wanted to make an open source offering and Laocoon was the character in Virgil's Aeneid, Book II. He was the one quoted to have said. "Equo ne credite, Teucri. Quidquid id est, timeo Danaos et dona ferentes." 
 ("Do not trust the horse Trojans! Whatever it is, I fear the Greeks, even bringing gifts.") 
-So we thought it would be fitting to acknowlege him by naming the application after someone who warned of Trojan Horses.
+So it would only be fitting to acknowlege him by naming the application after someone who warned of the Trojan Horse.
 
 #Want to get involved and be one of the core developers?
 
